@@ -3,7 +3,7 @@
 
 ## Project Overview
 This project aims to predict emergency response times
-for traffic accidents using traffic, weather, and
+for traffic accidents using traffic, weather,and
 road-related data.
 
 ## Objectives
